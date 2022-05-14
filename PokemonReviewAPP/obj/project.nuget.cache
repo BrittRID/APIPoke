@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MWCK9Fy3SZ4VBEBxsGXWw+c2bwj0Dvf8Cny9JR4qjI87u20AY9yGn/xixls39poZSGDfgpaWwaHwATFMVzRwbg==",
+  "dgSpecHash": "vn08ipOb7SRnx8tlhRHh6CI11qtw5S72ZhiHHZE21CuevEFoW/lJOdYE27pCp6SBJYj2Ivo3MYgsZ+p3+oUumg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewAPP\\PokemonReviewApp\\PokemonReviewAPP.csproj",
+  "projectFilePath": "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewApp\\PokemonReviewAPP\\PokemonReviewAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\britt\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\britt\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

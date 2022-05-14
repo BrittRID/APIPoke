@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewAPP\\PokemonReviewApp\\PokemonReviewAPP.csproj": {}
+    "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewApp\\PokemonReviewAPP\\PokemonReviewAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewAPP\\PokemonReviewApp\\PokemonReviewAPP.csproj": {
+    "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewApp\\PokemonReviewAPP\\PokemonReviewAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewAPP\\PokemonReviewApp\\PokemonReviewAPP.csproj",
+        "projectUniqueName": "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewApp\\PokemonReviewAPP\\PokemonReviewAPP.csproj",
         "projectName": "PokemonReviewAPP",
-        "projectPath": "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewAPP\\PokemonReviewApp\\PokemonReviewAPP.csproj",
+        "projectPath": "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewApp\\PokemonReviewAPP\\PokemonReviewAPP.csproj",
         "packagesPath": "C:\\Users\\britt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewAPP\\PokemonReviewApp\\obj\\",
+        "outputPath": "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewApp\\PokemonReviewAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\britt\\AppData\\Roaming\\NuGet\\NuGet.Config",
