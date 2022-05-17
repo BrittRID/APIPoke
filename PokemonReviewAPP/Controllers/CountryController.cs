@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using PokemonReviewApp.Dto;
+using PokemonReviewApp.Models;
+using PokemonReviewAPP.Interface;
 
 namespace PokemonReviewAPP.Controllers
 {
