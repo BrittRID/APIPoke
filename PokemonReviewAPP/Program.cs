@@ -3,7 +3,7 @@ using PokemonReviewApp;
 using PokemonReviewApp.Data;
 using PokemonReviewApp.Interfaces;
 using PokemonReviewAPP.Repos;
-using System.Text.Json.Serialization;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,7 +13,7 @@ builder.Services.AddControllers();
 builder.Services.AddTransient<Seed>();
 //builder.Services.AddControllers().AddJsonOptions(x =>
 //                x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
-//builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped<IPokemonRepository, PokemonRepository>();
 //builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 //builder.Services.AddScoped<ICountryRepository, CountryRepository>();

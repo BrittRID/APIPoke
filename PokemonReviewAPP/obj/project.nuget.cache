@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iFMRc7uCj9zKP5/2JaDxuDbxl4NIQcIVfoK2LNQbvih1IquXxNF23LvLIKjHMsEqv6EA/zcpI8p3/bprdHQtfg==",
+  "dgSpecHash": "owlFaZfvVAqmCh2te6499rGPFghIAx7e54ongWxTiIE9gFpkbFqGVCCsxpxz4qQ2rIeAX6QgFcJlHJE9PtPzfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\britt\\Desktop\\Repos\\PokemonReviewApp\\PokemonReviewAPP\\PokemonReviewAPP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\britt\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\britt\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\britt\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\britt\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\britt\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
